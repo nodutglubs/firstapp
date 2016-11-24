@@ -20,6 +20,9 @@ public class Main {
         
         //a few changes here
         
+        System.out.println("Trying out GitHub and the git process.");
+        System.out.println("Repositories are both local and remote");
+        
     }
     
 }
